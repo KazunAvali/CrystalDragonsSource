@@ -1,0 +1,49 @@
+[c/3ABC7A:Description:]
+The Crystal Dragons are a set of 7 dragon-like races based on Terraria's gemstones that provide impactful stat changes and unique 10-minute cooldown abilities for an interesting twist on the Terraria experience. Each race comes with a unique sprite and an always-displayed faintly glowing horn based on the gemstone of their species.
+
+This mod was made for Terraria's 10th anniversary, and is based on the characters of my friend group that was first formed because of a Terraria playthrough. I dedicate this mod to Lake Gang:
+Jave, Ghil, Drue, Ruggust, and Hetuni (who is very small).
+
+Each race has its own playstyle:
+• [c/8732a8:Amethyst Dragon:] Summoner / Healer. Mainly focuses on supporting their team.
+
+• [c/13f0cb:Diamond Dragon:] Melee / Tank. Frontlines-focused, has more defenses and health than average.
+
+• [c/d4b30f:Topaz Kobold:] All-rounder. Can use pretty much anything, but not as efficiently as the specialists. Great support because of their unique prefixes granted from their 10-minute ability.
+
+• [c/9c0e0e:Ruby Dragon:] Ranged (Guns) / Offense. Strong spike damage and inherent wings, but not very good at much else besides guns and explosives and can't use magic.
+
+• [c/cc9a3d:Amber Raptor:] Ranged (Bows) / Scout. Fast and maneuverable, but only really good with bows.
+
+• [c/2a57de:Sapphire Dragon:] Mage / Offense. Better innate magic abilities and high damage potential with 10-minute ability, gain bonuses while submerged or in rain, but fragile due to half immunity frames and only really good at magic.
+
+• [c/105723:Emerald Dragon:] Melee, Throwing (& Rogue) / Offense. Focused on critical hits, having high base crit and dealing more damage with crits, but less damage with non-crits.
+
+[c/3ABC7A:Credits:]
+-Kazun (coding)
+-Jave (spritework)
+-MrPlague (base race mod)
+
+[c/3ABC7A:Changelog:]
+1.7.3
+- Fixed a bug with Topaz Kobolds being unable to use difficulty-changing items such as Revengeance while in Multiplayer.
+NOTE: This fix required the removal of the functionality for HUGE walls being considered sunlight-blocking. This may cause problems in particularly large builds if there isn't a ceiling nearby, you may be considered "exposed" even if you're behind a large wall. I may look into fixing this later but this is MrPlague's code, so I need to look more deeply into the specifics for a fix here.
+
+1.7.2
+- Fixed a bug with the Gem Lock buff that caused the buff to repeatedly turn on and off while in range under certain game configurations.
+
+1.7.1
+- Fixed a bug where non-crystal-dragons would get an "ERROR: FindDragonType failed! Returning 0 (amethyst)" message spammed repeatedly in chat.
+
+1.7.0
+- Added Bonuses when nearby a Gem Lock with a slotted gem corresponding to your Dragon's gem (e.g. Amethyst Gem Locks only provide bonuses for Amethyst Dragons). These bonuses can stack up to 5 times:
+
+• [c/8732a8:Amethyst:] Increases the regen provided by Amethyst Aura by 1 per gem (Max +5).
+• [c/13f0cb:Diamond:] Reduces damage taken by 2% per gem (Max -10%).
+• [c/d4b30f:Topaz:] Increases the likelihood of rolling a rare prefix by 2.5% per gem (base chance ~16%, max bonus brings this to ~28.5%). At 5 stacks, also increases the chance of the legendary prefix from 0.5% to 0.8%.
+• [c/9c0e0e:Ruby:] Increase Gun/Explosive damage by 2% per gem (max +10%)
+• [c/cc9a3d:Amber:] Increase Bow speed by 4% per gem (max +20%)
+• [c/2a57de:Sapphire:] Reduce mana cost by 2% per gem (Max -10%)
+• [c/105723:Emerald:] Increases Melee, Thrown (Calamity-specific: and Rogue) crit chance by 2% per gem (Max +10%)
+
+- Adjusted Spirit Codex unlocks to unlock earlier. Now unlocks new spells after defeating Skeletron, Wall of Flesh, and any Mechanical bosses (changed from WoF, Any Mech, and Plantera).

@@ -1,0 +1,10 @@
+displayName = [c/13f0cb:Crystal Dragons Race Mod]
+author = Kazun
+version = 1.7.3
+hideCode = true
+hideResources = true
+includeSource = false
+homepage = https://discord.gg/ZrKFEQUBGV
+modReferences = MrPlagueRaces
+loadAfter = ThoriumMod
+loadAfter = CalamityMod

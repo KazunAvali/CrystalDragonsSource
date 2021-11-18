@@ -1,0 +1,6 @@
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.csprojAssemblyReference.cache
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.AssemblyInfoInputs.cache
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.AssemblyInfo.cs
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.csproj.AssemblyReference.cache
+C:\Users\Sol\Documents\My Games\Terraria\ModLoader\Mod Sources\CrystalDragons\obj\Debug\net45\CrystalDragons.GeneratedMSBuildEditorConfig.editorconfig
